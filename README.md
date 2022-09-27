@@ -7,6 +7,7 @@ Results of the lingear regression model tests are as follows:
 <img width="472" alt="Linear_regression_results" src="https://user-images.githubusercontent.com/107579508/192560288-95a314b8-02b1-4b1f-9ada-97caa7b8b9b2.png">
 
 These results provide insight to the following questions:
+
     * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
         - **vehicle_length** & **ground_clearance** are the two variables/coefficients that provide non-random amount of variance. Thus, vehicle length & ground clearance have a significant impact on Miles Per Gallon test results for the protoype MechaCars.
 
