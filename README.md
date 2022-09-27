@@ -10,7 +10,7 @@ These results provide insight to the following questions:
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-  **vehicle_length** & **ground_clearance** are the two variables/coefficients that provide non-random amount of variance. Thus, vehicle length & ground clearance have a significant impact on Miles Per Gallon test results for the protoype MechaCars.
+   The two variables/coefficients that provide non-random amount of variance are **vehicle_length** & **ground_clearance**. Thus, vehicle length & ground clearance have a significant impact on Miles Per Gallon test results for the protoype MechaCars.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
