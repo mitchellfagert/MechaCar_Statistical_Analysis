@@ -22,5 +22,13 @@ SD = sd(suspension_data$PSI)
 # Create total_summary_df
 total_summary_df <- data.frame(Mean,Median,Variance,SD)
 
-# Create lot_lummary_df
+# Create lot_summary_df
 lot_summary_df <- suspension_data %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI), .groups='keep')
+
+# T-test for all manufacturing lots
+t.test((suspension_data$PSI), mu=1500)
+
+# T-test for each of the manufacturing lots
+t.test(subset(suspension_data,Manufacturing_Lot == 'Lot1')$PSI,mu = 1500)
+t.test(subset(suspension_data,Manufacturing_Lot == 'Lot2')$PSI,mu = 1500)
+t.test(subset(suspension_data,Manufacturing_Lot == 'Lot3')$PSI,mu = 1500)
