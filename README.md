@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Overview of the Project
+The purpose of this project was to utilize R programming language and Rstudio GUI to aid a fictitious company called AutosRU in performing statistical tests on their datasets for a prototype vehicle called "MechaCar". In essense, the prototype was suffering from production troubles and needed data analytics to help the manufacturing team uncover insights about what may need improvements. The statistical tests included a variety of hypothesis testing procedures on the company-specific datasets. Below, there are three sets of analyses described in detail followed by an additional statistical study design to compare performance of the MechaCar vehicles against similar vehicles from other manufacturers.
+
 ## Linear Regression to Predict MPG
 
 Results of the lingear regression model tests are as follows:
