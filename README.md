@@ -51,11 +51,11 @@ Above is the results of one sample t-test for the suspension coils from lot 2. O
 
 ## Study Design: MechaCar vs Competition
 
-The car market is saturated with competitors who are all fighting for market share. Understanding how the MechaCar will differentiate itself from the compeitition is imperative so that developers can focus on the right metrics influence consumers decisions. Given the economic macro-economic pressures of decade high inflation, most consumers sensitive to features that save them the most money later down the road.
+The car market is saturated with competitors who are all fighting for market share. Understanding how the MechaCar will differentiate itself from the competition is imperative so that developers can focus on the right metrics influence consumers decisions. Given the economic macro-economic pressures of decade high inflation, most consumers sensitive to features that save them the most money later down the road.
 
 ### Metrics to Test
 
-It is going to be important that the developers focus on the city & highway fuel efficiecney in comparison to its competitors in order to appeal the ever changing demands of the consumer car market.
+It is going to be important that the developers focus on the city & highway fuel efficiency in comparison to its competitors in order to appeal the ever changing demands of the consumer car market.
 
 ### Potential statistical test & hypothesis suggestion
 
